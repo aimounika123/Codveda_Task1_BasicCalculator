@@ -26,7 +26,7 @@ This repository contains Java projects developed as part of Codveda internship t
 ## Technologies Used
 - Java
 - OOP Concepts
-- Eclipse IDE
+- vs Code
 ## Author
 Mounika Challa
 
