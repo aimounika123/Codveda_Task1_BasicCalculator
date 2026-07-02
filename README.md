@@ -22,6 +22,20 @@ This repository contains Java projects developed as part of Codveda internship t
 
 ### File Handling Demo
 - Demonstrates reading and writing files in Java.
+- # Library Management System
+
+#Technologies Used:
+- Java
+- JDBC
+- MySQL
+- OOP Concepts
+
+#Features:
+- Add Book
+- View Books
+- Borrow Book
+- Return Book
+- Transaction Management
 
 ## Technologies Used
 - Java
